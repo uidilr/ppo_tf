@@ -9,5 +9,5 @@ open ai gym
 ## Training
 python main.py 
 
-## Test traind policy
+## Test trained policy
 python test_policy.py
