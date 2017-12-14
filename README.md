@@ -1,6 +1,8 @@
 # PPO_tf
 Implementation of proximal policy optimization(PPO) using tensorflow  
-environment: CartPole-v0 on open ai gym  
+
+## environment
+CartPole-v0 on open ai gym  
 state space: continuous  
 action space: discrete  
 
