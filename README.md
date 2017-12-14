@@ -11,3 +11,6 @@ python main.py
 
 ## Test trained policy
 python test_policy.py
+
+## Tensorboard
+tensorboard --logdir log
