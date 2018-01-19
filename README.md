@@ -19,3 +19,6 @@ python test_policy.py
 
 ## Tensorboard
 tensorboard --logdir log
+
+## LICENSE
+MIT ICENSE
